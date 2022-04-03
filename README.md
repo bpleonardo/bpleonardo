@@ -1,15 +1,24 @@
 Hi there 👋
 ===========
 
-I am Leonardo P. also know as Kaigo.
+I am Leonardo (he/they), also know as Kaigo.
 
-I'm a Fullstack Developer with knowledge in:
+I'm a Fullstack Developer with experience in:
 <div>
-  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
-  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+  <a href="#"><img title="Linux (Mint)" alt="linux" width="50" height="50" src="https://skillicons.dev/icons?i=linux"></a>
+  <a href="#"><img title="Bash" alt="bash" width="50" height="50" src="https://skillicons.dev/icons?i=bash"></a>
+  <a href="#"><img title="Git" alt="git" width="50" height="50" src="https://skillicons.dev/icons?i=git"></a>
+  <a href="#"><img title="HTML 5" alt="html" width="50" height="50" src="https://skillicons.dev/icons?i=html"></a>
+  <a href="#"><img title="CSS 3" alt="css" width="50" height="50" src="https://skillicons.dev/icons?i=css"></a>
+  <a href="#"><img title="Bootstrap 4" alt="bootstrap" width="50" height="50" src="https://skillicons.dev/icons?i=bootstrap"></a>
+  <a href="#"><img title="JavaScript" alt="javascript" width="50" height="50" src="https://skillicons.dev/icons?i=js"></a>
+  <a href="#"><img title="TypeScript" alt="typescript" width="50" height="50" src="https://skillicons.dev/icons?i=ts"></a>
+  <a href="#"><img title="Python 3" alt="python" width="50" height="50" src="https://skillicons.dev/icons?i=python"></a>
+  <a href="#"><img title="Discord Bots (discord.py, discord.js)" alt="bots" width="50" height="50" src="https://skillicons.dev/icons?i=bots"></a>
+  <a href="#"><img title="MongoDB (Atlas)" alt="mongodb" width="50" height="50" src="https://skillicons.dev/icons?i=mongodb"></a>
+  <a href="#"><img title="Regex (Python)" alt="regex" width="50" height="50" src="https://skillicons.dev/icons?i=regex"></a>
 </div>
+<sub>Icons by <a href="https://skillicons.dev">skillicons.dev</a>.</sub>
 
 Projects
 --------
