@@ -28,6 +28,7 @@ Here's some of my projects:
 - [Spira](https://github.com/uKaigo/Spira): Frontend website for the ISP Spira.
 - [Sora](https://github.com/uKaigo/sora): Multi-purpose Discord bot.
 - [Desafio-Alura](https://github.com/uKaigo/desafio-alura): The backend of a school.
+- [dpygettext](https://github.com/uKaigo/dpygettext): Fork of dpygettext to use with discord.py bots.
 
 I'm also contributing to some open source projects :)
 
