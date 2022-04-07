@@ -18,7 +18,7 @@ I'm a Fullstack Developer with experience in:
   <a href="#"><img title="MongoDB (Atlas)" alt="mongodb" width="50" height="50" src="https://skillicons.dev/icons?i=mongodb"></a>
   <a href="#"><img title="Regex (Python)" alt="regex" width="50" height="50" src="https://skillicons.dev/icons?i=regex"></a>
 </div>
-<sub>Icons by <a href="https://skillicons.dev">skillicons.dev</a>.</sub>
+<sub>Icons by https://skillicons.dev. </sub>
 
 Projects
 --------
