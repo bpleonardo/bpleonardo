@@ -5,20 +5,20 @@ I am Leonardo (he/they), also know as Kaigo.
 
 I'm a Fullstack Developer with experience in:
 <div>
-  <a href="#"><img title="Linux (Mint)" alt="linux" width="50" height="50" src="https://skillicons.dev/icons?i=linux"></a>
-  <a href="#"><img title="Bash" alt="bash" width="50" height="50" src="https://skillicons.dev/icons?i=bash"></a>
-  <a href="#"><img title="Git" alt="git" width="50" height="50" src="https://skillicons.dev/icons?i=git"></a>
-  <a href="#"><img title="HTML 5" alt="html" width="50" height="50" src="https://skillicons.dev/icons?i=html"></a>
-  <a href="#"><img title="CSS 3" alt="css" width="50" height="50" src="https://skillicons.dev/icons?i=css"></a>
-  <a href="#"><img title="Bootstrap 4" alt="bootstrap" width="50" height="50" src="https://skillicons.dev/icons?i=bootstrap"></a>
-  <a href="#"><img title="JavaScript" alt="javascript" width="50" height="50" src="https://skillicons.dev/icons?i=js"></a>
-  <a href="#"><img title="TypeScript" alt="typescript" width="50" height="50" src="https://skillicons.dev/icons?i=ts"></a>
-  <a href="#"><img title="Python 3" alt="python" width="50" height="50" src="https://skillicons.dev/icons?i=python"></a>
-  <a href="#"><img title="Discord Bots (discord.py, discord.js)" alt="bots" width="50" height="50" src="https://skillicons.dev/icons?i=bots"></a>
-  <a href="#"><img title="MongoDB (Atlas)" alt="mongodb" width="50" height="50" src="https://skillicons.dev/icons?i=mongodb"></a>
-  <a href="#"><img title="Regex (Python)" alt="regex" width="50" height="50" src="https://skillicons.dev/icons?i=regex"></a>
+  <a href="#"><img title="Linux (Mint)" alt="Linux (Mint)" width="50" height="50" src="https://skillicons.dev/icons?i=linux"></a>
+  <a href="#"><img title="Bash" alt="Bash" width="50" height="50" src="https://skillicons.dev/icons?i=bash"></a>
+  <a href="#"><img title="Git" alt="Git" width="50" height="50" src="https://skillicons.dev/icons?i=git"></a>
+  <a href="#"><img title="HTML 5" alt="HTML 5" width="50" height="50" src="https://skillicons.dev/icons?i=html"></a>
+  <a href="#"><img title="CSS 3" alt="CSS 3" width="50" height="50" src="https://skillicons.dev/icons?i=css"></a>
+  <a href="#"><img title="Bootstrap 4" alt="Bootstrap 4" width="50" height="50" src="https://skillicons.dev/icons?i=bootstrap"></a>
+  <a href="#"><img title="JavaScript" alt="JavaScript" width="50" height="50" src="https://skillicons.dev/icons?i=js"></a>
+  <a href="#"><img title="TypeScript" alt="TypeScript" width="50" height="50" src="https://skillicons.dev/icons?i=ts"></a>
+  <a href="#"><img title="Python 3" alt="Python 3" width="50" height="50" src="https://skillicons.dev/icons?i=python"></a>
+  <a href="#"><img title="Discord Bots (discord.py, discord.js)" alt="Discord Bots (discord.py, discord.js)" width="50" height="50" src="https://skillicons.dev/icons?i=bots"></a>
+  <a href="#"><img title="MongoDB (Atlas)" alt="MongoDB (Atlas)" width="50" height="50" src="https://skillicons.dev/icons?i=mongodb"></a>
+  <a href="#"><img title="Regex (Python)" alt="Regex (Python)" width="50" height="50" src="https://skillicons.dev/icons?i=regex"></a>
 </div>
-<sub>Icons by https://skillicons.dev. </sub>
+<sub>Icons by https://skillicons.dev.</sub>
 
 Projects
 --------
@@ -38,6 +38,19 @@ Contact
 You can contact me here:
 
 <div>
-  <a href="mailto:kaigo.dev@gmail.com?subject=Contact"><img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"></a>
-  <a href="https://discord.com/users/380441229416071170"><img width="50" height="50" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
+  <a href="mailto:kaigo.dev@gmail.com?subject=Contact"><img title="kaigo.dev@gmail.com" alt="kaigo.dev@gmail.com" titlewidth="50" height="50" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"></a>
+  <a href="https://discord.com/users/380441229416071170"><img title="Kaigo#0833 at Discord" alt="Kaigo#0833 at Discord" width="50" height="50" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
 </div>
+
+<br>
+
+<details>
+  <summary>Github Stats</summary>
+  <br>
+  <div>
+    <a href="#"><img alt="Account Stats" title="Account Stats" src="https://github-readme-stats.vercel.app/api?username=uKaigo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula"></a>
+  </div>
+  <div>
+    <a href="#"><img alt="Language Stats" title="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uKaigo&theme=dracula"></a>
+  </div>
+</details>
