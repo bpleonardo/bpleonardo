@@ -48,9 +48,19 @@ You can contact me here:
   <summary>Github Stats</summary>
   <br>
   <div>
-    <a href="#"><img alt="Account Stats" title="Account Stats" src="https://github-readme-stats.vercel.app/api?username=uKaigo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula"></a>
+    <a href="#">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=uKaigo&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark">
+        <img alt="Account stats" src="https://github-readme-stats.vercel.app/api?username=uKaigo&count_private=true&include_all_commits=true&show_icons=true&theme=github_light">
+      </picture>
+    </a>
   </div>
   <div>
-    <a href="#"><img alt="Language Stats" title="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uKaigo&theme=dracula"></a>
+    <a href="#">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uKaigo&theme=github_dark">
+        <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uKaigo&theme=github_light">
+      </picture>
+    </a>
   </div>
 </details>
