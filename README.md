@@ -19,29 +19,7 @@ I'm a Fullstack Developer with experience in:
   <a href="#"><img title="Regex (Python)" alt="Regex (Python)" width="50" height="50" src="https://skillicons.dev/icons?i=regex"></a>
 </div>
 <sub>Icons by https://skillicons.dev.</sub>
-
-Projects
---------
-
-Here's some of my projects:
-
-- [Spira](https://github.com/uKaigo/Spira): Frontend website for the ISP Spira.
-- [Sora](https://github.com/uKaigo/sora): Multi-purpose Discord bot.
-- [Desafio-Alura](https://github.com/uKaigo/desafio-alura): The backend of a school.
-- [dpygettext](https://github.com/uKaigo/dpygettext): Fork of dpygettext to use with discord.py bots.
-
-I'm also contributing to some open source projects :)
-
-Contact
--------
-
-You can contact me here:
-
-<div>
-  <a href="mailto:kaigo.dev@gmail.com?subject=Contact"><img title="kaigo.dev@gmail.com" alt="kaigo.dev@gmail.com" titlewidth="50" height="50" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"></a>
-  <a href="https://discord.com/users/380441229416071170"><img title="Kaigo#0833 at Discord" alt="Kaigo#0833 at Discord" width="50" height="50" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
-</div>
-
+<br>
 <br>
 
 <details>
@@ -64,3 +42,25 @@ You can contact me here:
     </a>
   </div>
 </details>
+
+Projects
+--------
+
+Here's some of my projects:
+
+- [Spira](https://github.com/uKaigo/Spira): Frontend website for the ISP Spira.
+- [Sora](https://github.com/uKaigo/sora): Multi-purpose Discord bot.
+- [dotfiles](https://github.com/uKaigo/dotfiles): My configuration files.
+- [dpygettext](https://github.com/uKaigo/dpygettext): Fork of dpygettext to use with discord.py bots.
+
+I'm also contributing to some open source projects :)
+
+Contact
+-------
+
+You can contact me here:
+
+<div>
+  <a href="mailto:kaigo.dev@gmail.com?subject=Contact"><img title="kaigo.dev@gmail.com" alt="kaigo.dev@gmail.com" width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"></a>
+  <a href="https://discord.com/users/380441229416071170"><img title="Kaigo#0833 at Discord" alt="Kaigo#0833 at Discord" width="50" height="50" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
+</div>
