@@ -10,6 +10,7 @@ I'm a Fullstack Developer with experience in:
   <a href="#"><img title="Git" alt="Git" width="50" height="50" src="https://skillicons.dev/icons?i=git"></a>
   <a href="#"><img title="HTML 5" alt="HTML 5" width="50" height="50" src="https://skillicons.dev/icons?i=html"></a>
   <a href="#"><img title="CSS 3" alt="CSS 3" width="50" height="50" src="https://skillicons.dev/icons?i=css"></a>
+  <a href="#"><img title="Svelte (Kit)" alt="Svelte (Kit)" width="50" height="50" src="https://skillicons.dev/icons?i=svelte"></a>
   <a href="#"><img title="Bootstrap 4" alt="Bootstrap 4" width="50" height="50" src="https://skillicons.dev/icons?i=bootstrap"></a>
   <a href="#"><img title="JavaScript" alt="JavaScript" width="50" height="50" src="https://skillicons.dev/icons?i=js"></a>
   <a href="#"><img title="TypeScript" alt="TypeScript" width="50" height="50" src="https://skillicons.dev/icons?i=ts"></a>
