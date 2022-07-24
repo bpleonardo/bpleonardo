@@ -49,10 +49,10 @@ Projects
 
 Here's some of my projects:
 
+- [ukaigo.github.io](https://github.com/uKaigo/ukaigo.github.io): My portfolio.
 - [Spira](https://github.com/uKaigo/Spira): Frontend website for the ISP Spira.
 - [Sora](https://github.com/uKaigo/sora): Multi-purpose Discord bot.
 - [dotfiles](https://github.com/uKaigo/dotfiles): My configuration files.
-- [dpygettext](https://github.com/uKaigo/dpygettext): Fork of dpygettext to use with discord.py bots.
 
 I'm also contributing to some open source projects :)
 
