@@ -29,16 +29,16 @@ I'm a Fullstack Developer with experience in:
   <div>
     <a href="#">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=uKaigo&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark">
-        <img alt="Account stats" src="https://github-readme-stats.vercel.app/api?username=uKaigo&count_private=true&include_all_commits=true&show_icons=true&theme=github_light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bpleonardo&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark">
+        <img alt="Account stats" src="https://github-readme-stats.vercel.app/api?username=bpleonardo&count_private=true&include_all_commits=true&show_icons=true&theme=github_light">
       </picture>
     </a>
   </div>
   <div>
     <a href="#">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uKaigo&theme=github_dark">
-        <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uKaigo&theme=github_light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bpleonardo&theme=github_dark">
+        <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpleonardo&theme=github_light">
       </picture>
     </a>
   </div>
@@ -49,19 +49,8 @@ Projects
 
 Here's some of my projects:
 
-- [ukaigo.github.io](https://github.com/uKaigo/ukaigo.github.io): My portfolio.
-- [Spira](https://github.com/uKaigo/Spira): Frontend website for the ISP Spira.
-- [Sora](https://github.com/uKaigo/sora): Multi-purpose Discord bot.
-- [dotfiles](https://github.com/uKaigo/dotfiles): My configuration files.
+- [Spira](https://github.com/bpleonardo/Spira): Frontend website for the ISP Spira.
+- [KaiBOT](https://github.com/bpleonardo/KaiBOT): Multi-purpose Discord bot.
+- [dotfiles](https://github.com/bpleonardo/dotfiles): My configuration files.
 
 I'm also contributing to some open source projects :)
-
-Contact
--------
-
-You can contact me here:
-
-<div>
-  <a href="mailto:kaigo.dev@gmail.com?subject=Contact"><img title="kaigo.dev@gmail.com" alt="kaigo.dev@gmail.com" width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg"></a>
-  <a href="https://discord.com/users/380441229416071170"><img title="Kaigo#0833 at Discord" alt="Kaigo#0833 at Discord" width="50" height="50" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
-</div>
