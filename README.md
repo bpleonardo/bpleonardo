@@ -1,7 +1,7 @@
 Hi there 👋
 ===========
 
-I am Leonardo (he/they), also know as Kaigo.
+I am Leonardo, from Brazil!
 
 I'm a Fullstack Developer with experience in:
 <div>
