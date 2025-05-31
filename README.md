@@ -54,3 +54,8 @@ Here's some of my projects:
 - [dotfiles](https://github.com/bpleonardo/dotfiles): My configuration files.
 
 I'm also contributing to some open source projects :)
+
+Contact
+-------
+
+You can contact me [here](https://github.com/bpleonardo/bpleonardo/issues/new/choose)
