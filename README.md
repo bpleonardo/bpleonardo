@@ -5,7 +5,7 @@ I am Leonardo, from Brazil!
 
 I'm a Fullstack Developer with experience in:
 <div>
-  <a href="#"><img title="Linux (Mint)" alt="Linux (Mint)" width="50" height="50" src="https://skillicons.dev/icons?i=linux"></a>
+  <a href="#"><img title="Linux (Arch)" alt="Linux (Arch)" width="50" height="50" src="https://skillicons.dev/icons?i=linux"></a>
   <a href="#"><img title="Bash" alt="Bash" width="50" height="50" src="https://skillicons.dev/icons?i=bash"></a>
   <a href="#"><img title="Git" alt="Git" width="50" height="50" src="https://skillicons.dev/icons?i=git"></a>
   <a href="#"><img title="HTML 5" alt="HTML 5" width="50" height="50" src="https://skillicons.dev/icons?i=html"></a>
@@ -15,9 +15,11 @@ I'm a Fullstack Developer with experience in:
   <a href="#"><img title="JavaScript" alt="JavaScript" width="50" height="50" src="https://skillicons.dev/icons?i=js"></a>
   <a href="#"><img title="TypeScript" alt="TypeScript" width="50" height="50" src="https://skillicons.dev/icons?i=ts"></a>
   <a href="#"><img title="Python 3" alt="Python 3" width="50" height="50" src="https://skillicons.dev/icons?i=python"></a>
-  <a href="#"><img title="Discord Bots (discord.py, discord.js)" alt="Discord Bots (discord.py, discord.js)" width="50" height="50" src="https://skillicons.dev/icons?i=bots"></a>
+  <a href="#"><img title="C" alt="C" width="50" height="50" src="https://skillicons.dev/icons?i=c"></a>
+  <a href="#"><img title="C#" alt="C#" width="50" height="50" src="https://skillicons.dev/icons?i=cs"></a>
+  <!--<a href="#"><img title="Discord Bots (discord.py, discord.js)" alt="Discord Bots (discord.py, discord.js)" width="50" height="50" src="https://skillicons.dev/icons?i=bots"></a>-->
   <a href="#"><img title="MongoDB (Atlas)" alt="MongoDB (Atlas)" width="50" height="50" src="https://skillicons.dev/icons?i=mongodb"></a>
-  <a href="#"><img title="Regex (Python)" alt="Regex (Python)" width="50" height="50" src="https://skillicons.dev/icons?i=regex"></a>
+  <a href="#"><img title="Regex" alt="Regex" width="50" height="50" src="https://skillicons.dev/icons?i=regex"></a>
 </div>
 <sub>Icons by https://skillicons.dev.</sub>
 <br>
@@ -52,6 +54,7 @@ Here's some of my projects:
 - [Spira](https://github.com/bpleonardo/Spira): Frontend website for the ISP Spira.
 - [KaiBOT](https://github.com/bpleonardo/KaiBOT): Multi-purpose Discord bot.
 - [dotfiles](https://github.com/bpleonardo/dotfiles): My configuration files.
+- [PIM02](https://github.com/bpleonardo/pim02): Interdisciplinary Integrator Project: A project I made for my college. I was responsible for the C implementation and reviewed Python code.
 
 I'm also contributing to some open source projects :)
 
