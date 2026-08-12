@@ -22,43 +22,20 @@ I'm a Fullstack Developer with experience in:
   <a href="#"><img title="Regex" alt="Regex" width="50" height="50" src="https://skillicons.dev/icons?i=regex"></a>
 </div>
 <sub>Icons by https://skillicons.dev.</sub>
-<br>
-<br>
-
-<details>
-  <summary>Github Stats</summary>
-  <br>
-  <div>
-    <a href="#">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bpleonardo&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark">
-        <img alt="Account stats" src="https://github-readme-stats.vercel.app/api?username=bpleonardo&count_private=true&include_all_commits=true&show_icons=true&theme=github_light">
-      </picture>
-    </a>
-  </div>
-  <div>
-    <a href="#">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bpleonardo&theme=github_dark">
-        <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpleonardo&theme=github_light">
-      </picture>
-    </a>
-  </div>
-</details>
 
 Projects
 --------
 
 Here's some of my projects:
 
-- [Spira](https://github.com/bpleonardo/Spira): Frontend website for the ISP Spira.
 - [KaiBOT](https://github.com/bpleonardo/KaiBOT): Multi-purpose Discord bot.
-- [dotfiles](https://github.com/bpleonardo/dotfiles): My configuration files.
-- [PIM02](https://github.com/bpleonardo/pim02): Interdisciplinary Integrator Project: A project I made for my college. I was responsible for the C implementation and reviewed Python code.
+- [dotfiles](https://github.com/bpleonardo/dotfiles): My Linux configuration files.
+- [PIM02](https://github.com/bpleonardo/pim02): A project I made for my college. I was responsible for the C implementation and reviewed Python code.
+- [PIM03](https://github.com/L-Codex/pim03): A project I made for my college. I was responsible for the C# implementation and reviewed/contributed to the frontend code.
 
 I'm also contributing to some open source projects :)
 
 Contact
 -------
 
-You can contact me [here](https://github.com/bpleonardo/bpleonardo/issues/new/choose)
+You can contact me by email at `contato <at> bpleonardo.com`
