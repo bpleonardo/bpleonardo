@@ -1,10 +1,9 @@
 name: Contact
 title: Contact
-description: If you wish to contact me, open this issue.
-assignees: bpleonardo
+description:
+assignees: []
 body:
-  - type: textarea
-    id: textarea-0
+  - type: markdown
     attributes:
-      label: Subject
-      description: What you want to talk about? State if confidential.
+      value: |
+        Please contact me by email at contato <at> bpleonardo.com instead of opening an issue here.
