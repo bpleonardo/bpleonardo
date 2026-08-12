@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: 📧 Email
-    url: mailto:contato@bpleonardo.com
-    about: Please contact me by mail at `contato <at> bpleonardo.com`
-  - name: 💡 Feature Request
-    url: [link to create feature request]
-    about: Have some great ideas to improve our site or this codebase? Open a new feature request in our team's app of choice.
