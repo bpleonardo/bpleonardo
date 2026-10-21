@@ -35,6 +35,8 @@ Here's some of my projects:
 
 I'm also contributing to some open source projects :)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bpleonardo&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=bpleonardo&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=swift)
+
 Contact
 -------
 
